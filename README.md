@@ -21,6 +21,6 @@ Features **V1**,...,**V28** are numerical input variables resulted of a Principa
 
 The dataset file, when loaded in pandas, has a memory usage of 67.4 MB.
 
-<p align="center">
+<p align="left">
 <img src="info-fraud.png" width="280" height="520"/>
 </p>
