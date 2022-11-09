@@ -6,7 +6,9 @@ In this project was used a Credit Card Transactions dataset (https://www.kaggle.
 ### Goal of the project : 
 Create a model with a good performance in the detection of fraudulent transactions.
 
-## The Dataset
+### Project Development
+
+## 2. The Dataset
 This dataset has 284807 entries and its features are describe below.
 
 **Time** : the seconds between each transaction and the first transaction. 
@@ -16,3 +18,9 @@ This dataset has 284807 entries and its features are describe below.
 **Class** : tells us if that certain transaction is a fraud or not, where 1 = fraud and 0 = not a fraud.
 
 Features **V1**,...,**V28** are numerical input variables resulted of a Principal Component Analysis (PCA) transformation whose content specification, due to confidentiality, cannot be displayed.
+
+The dataset file, when loaded in pandas, has a memory usage of 67.4 MB.
+
+<p align="center">
+<img src="info-fraud.png" width="280" height="520"/>
+</p>
